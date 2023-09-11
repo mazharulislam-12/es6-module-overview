@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "price": 249
+    },
+    {
+      "id": 3,
+      "name": "Fitbit",
+      "price": 229
+    },
+    {
+      "id": 4,
+      "name": "Garmin",
+      "price": 349
+    },
+    {
+      "id": 5,
+      "name": "Fossil",
+      "price": 299
+    }
+  ]
+  
